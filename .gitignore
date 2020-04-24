@@ -1,0 +1,6 @@
+.vscode
+Logs
+Library
+*.meta
+Temp
+obj/Debug
